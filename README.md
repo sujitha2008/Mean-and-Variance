@@ -1,4 +1,4 @@
-#  Mean and variance of a discrete  distribution
+000000000#  Mean and variance of a discrete  distribution
 
 
 # Aim : 
@@ -49,6 +49,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 ```
+#Developed by : SUJITHA S
+#Register No : 212225040436
 # Input: Enter the number of arrivals separated by space
 L = [int(i) for i in input("Enter arrival data: ").split()]
 
