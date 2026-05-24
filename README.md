@@ -51,6 +51,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ```
 #Developed by : SUJITHA S
 #Register No : 212225040436
+
 # Input: Enter the number of arrivals separated by space
 L = [int(i) for i in input("Enter arrival data: ").split()]
 
@@ -92,6 +93,7 @@ for i in range(M + 1):
 print(f"\nThe Mean arrival rate is {mean:.3f}")
 print(f"The Variance of arrival from feeder is {var:.3f}")
 print(f"The Standard deviation of arrival from feeder is {SD:.3f}")
+
 ```
 # Output : 
 <img width="913" height="536" alt="image" src="https://github.com/user-attachments/assets/02b33f45-0848-48a5-a668-31612b693b43" />
